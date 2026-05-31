@@ -1,2 +1,3 @@
 "`Embarking on my journey to master Git.`"
 Initial commit with journey.txt
+My journey evolves into an adventure with Git.
